@@ -17,3 +17,5 @@ git branch gh-pages
 ```
 git push -u origin gh-pages
 ```
+
+3. To findout the link of the page open the repo github and click on **deployments > github-pages**. Once there click on the small icon to see your page live.
